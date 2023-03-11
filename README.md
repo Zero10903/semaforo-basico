@@ -7,7 +7,7 @@
 
 Como su nombre lo indica, se trata de un proyecto simple que se suele dar al iniciar en el aprendizaje del uso de este Microcontrolador. Es un semáforo que utiliza 3 LEDs de diferentes colores.
 
-**_ACLARACIÓN:_** En este proyecto podrás encontrar dos archivos principales con el código. Los cuales se diferencian por su extensión.
+**_ACLARACIÓN:_** En la carpeta _src_ podrás encontrar dos archivos principales con el código. Los cuales se diferencian por su extensión.
 El archivo **.cpp** fue creado y utilizado en el IDE de **_Visual Studio Code_** y el archivo con la extensión **.ino** fue creado y utilizado en el IDE de **_Arduino_**.
 _Dependiendo de cual IDE utilices, debes ver un código u otro; aunque no tienen tantas diferencias._
 
@@ -39,4 +39,5 @@ Tambien tienes la opción de cambiar el pin al que se conecta cada LED, pero te 
 ## Licencia usada
 
 MIT License
+
 [tinker]: https://www.tinkercad.com/things/17TKcz2eGv9
